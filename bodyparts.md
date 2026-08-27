@@ -31,7 +31,7 @@
 | chuchU | breast |
 | naeRa | navel |
 | dhiD: | stomach |
-| DhAk | waist |
+| DhAk/brakh: | waist |
 | trikaRi | back |
 | Dhang: | Hip |
 | pat: | Thigh |
