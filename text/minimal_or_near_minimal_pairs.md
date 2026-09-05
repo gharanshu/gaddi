@@ -19,3 +19,7 @@
 | | heLki: | rabid |
 | **8** | nAErA~ | in canal |
 | | nhaerA | darkness |
+| **9** | baN | forest |
+| | Bann | tie |
+| | bhan: | break | 
+
